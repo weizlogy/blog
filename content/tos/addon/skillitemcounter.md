@@ -25,11 +25,11 @@ version = "1.1.1"
 
 #### 使用回数が表示されない問題の修正
 
-詳細は[#19](https://github.com/weizlogy/tos/issues/19)
+詳細は[#19](https://github.com/weizlogy/tos/issues/19)を参照してください。
 
 #### joypad対応
 
-joypadのquickslotに対応しました（遅
+joypadのquickslotに対応しました。（遅
 
 ### v1.1.0
 
