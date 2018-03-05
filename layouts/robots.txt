@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /tos/addon-x
+Disallow: /categories/tos-addon-x

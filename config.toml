@@ -1,0 +1,18 @@
+languageCode = "en-us"
+title = "Weizlogy"
+baseURL = "http://www.weizlogy.gq/"
+googleAnalytics = "UA-565719-7"
+enableGitInfo = true
+enableRobotsTXT = true
+
+pygmentscodefences = "true"
+pygmentsuseclasses = "true"
+
+theme = "hugo-theme-html5-amp-minimize"
+
+[params]
+  description = " - Live in der Zukunft."
+  copyright = "© 2010 weizlogy."
+  poweredby = "hugo + github pages."
+  author = "weizlogy"
+  publisher = "Weiβlogy"
