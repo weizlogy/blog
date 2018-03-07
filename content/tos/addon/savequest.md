@@ -2,12 +2,12 @@
 publishdate = "2017-03-24T05:28:54+09:00"
 title = "[tree of savior addon] ワープ用クエスト誤完了防止アドオン"
 categories = [ "tos-addon" ]
-version = "1.2.2"
+version = "1.2.3"
 +++
 
 ## download.
 
-[[v1.2.2] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.2.ipf)
+[[v1.2.3] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.3.ipf)
 
 ## install.
 
@@ -32,6 +32,15 @@ savequestフォルダーには下記ファイルが自動的に生成され、
 - quests\_scl_[cid].txt
 
 ## descriptions.
+
+### v1.2.3
+
+#### ショートカットフレームレイヤーレベル動的調整機能追加
+
+ショートカットフレーム上でマウスホイールをくるくるするとレイヤーレベルが動的に変わります。
+現在値はチャット上に表示（ちょっと邪魔...）します。
+
+レイヤーレベルはショートカットフレームを移動させた時に保存します（くるくるしただけでは保存しない！）ので、お忘れなきよう...
 
 ### v1.2.2
 
