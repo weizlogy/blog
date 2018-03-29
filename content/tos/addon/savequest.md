@@ -2,12 +2,12 @@
 publishdate = "2017-03-24T05:28:54+09:00"
 title = "[tree of savior addon] ワープ用クエスト誤完了防止アドオン"
 categories = [ "tos-addon" ]
-version = "1.2.3"
+version = "1.2.4"
 +++
 
 ## download.
 
-[[v1.2.3] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.3.ipf)
+[[v1.2.4] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.4.ipf)
 
 ## install.
 
@@ -32,6 +32,12 @@ savequestフォルダーには下記ファイルが自動的に生成され、
 - quests\_scl_[cid].txt
 
 ## descriptions.
+
+### v1.2.4
+
+#### ショートカットフレームレイヤーレベル一括変更機能追加
+
+ショートカットフレームの（ワープマーカー）右クリックメニューに「FlattenLayerLv」コマンドを追加しました。
 
 ### v1.2.3
 
@@ -148,6 +154,10 @@ shortcutを選択すると画面右上近辺にワープアイコン＋マップ
 （クエスト一覧と同じやつです）
 
 現在の共有状態に応じてトグル表示します。
+
+#### FlattenLayerLv
+
+メニューを出したショートカットフレームのレイヤーレベルを、すべてのショートカットフレームに展開します。
 
 #### Remove
 
