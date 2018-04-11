@@ -138,7 +138,7 @@ shortcutを選択すると画面右上近辺にワープアイコン＋マップ
 
 ワープアイコンにマウスカーソルを当てるとクエスト名をツールチップ表示します。
 
-ワープアイコンを右クリックするとメニュー（(Un)Lock, (Un)Share, Remove, Cancel）が表示されます。
+ワープアイコンを右クリックするとメニュー（(Un)Lock, (Un)Share, FlattenLayerLv, Remove, Cancel）が表示されます。
 
 #### (Un)Lock
 
