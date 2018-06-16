@@ -1,5 +1,5 @@
 +++
-title = "[tree of savior addon] Heads Up Displayをコンパクトにするアドオン"
+title = "[tree of savior addon] GUI操作で装備を保存/復元するアドオン"
 publishdate = 2018-04-11T23:48:28+09:00
 categories = [ "tos-addon" ]
 version = "1.0.0"

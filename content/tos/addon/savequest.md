@@ -2,12 +2,12 @@
 publishdate = "2017-03-24T05:28:54+09:00"
 title = "[tree of savior addon] ワープ用クエスト誤完了防止アドオン"
 categories = [ "tos-addon" ]
-version = "1.2.4"
+version = "1.2.5"
 +++
 
 ## download.
 
-[[v1.2.4] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.4.ipf)
+[[v1.2.5] savequest.ipf](https://github.com/weizlogy/tos/releases/download/savequest/savequest-v1.2.5.ipf)
 
 ## install.
 
@@ -32,6 +32,13 @@ savequestフォルダーには下記ファイルが自動的に生成され、
 - quests\_scl_[cid].txt
 
 ## descriptions.
+
+### v1.2.5
+
+#### 保存済みクエストを破棄しても保存状態が残る問題を修正
+
+保存済みクエストを破棄しても保存状態が残るため、再受注してもNPCが消えたままでした。
+保存済みクエストを破棄すると保存状態も破棄するように修正しました。
 
 ### v1.2.4
 
