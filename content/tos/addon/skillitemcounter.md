@@ -2,12 +2,12 @@
 publishdate = "2017-04-16T11:11:02+09:00"
 title = "[tree of savior addon] 消費アイテムありスキルの使用回数表示アドオン"
 categories = [ "tos-addon" ]
-version = "1.1.1"
+version = "1.1.2"
 +++
 
 ## download.
 
-[[v1.1.1] skillitemcounter.ipf](https://github.com/weizlogy/tos/releases/download/skillitemcounter/skillitemcounter-v1.1.1.ipf)
+[[v1.1.2] skillitemcounter.ipf](https://github.com/weizlogy/tos/releases/download/skillitemcounter/skillitemcounter-v1.1.2.ipf)
 
 ## install.
 
@@ -20,6 +20,10 @@ version = "1.1.1"
 ## settings.
 
 ## descriptions.
+
+### v1.1.2
+
+#### 6/27アップデート対応
 
 ### v1.1.1
 
