@@ -2,12 +2,12 @@
 title = "[tree of savior addon] GUI操作で装備を保存/復元するアドオン"
 publishdate = 2018-04-11T23:48:28+09:00
 categories = [ "tos-addon" ]
-version = "1.0.0"
+version = "1.1.0"
 +++
 
 ## download.
 
-[[v1.0.0] costumeplay.ipf](https://github.com/weizlogy/tos/releases/download/costumeplay/costumeplay-v1.0.0.ipf)
+[[v1.1.0] costumeplay.ipf](https://github.com/weizlogy/tos/releases/download/costumeplay/costumeplay-v1.1.0.ipf)
 
 ## install.
 
@@ -27,6 +27,20 @@ costumeplayフォルダーには下記ファイルが自動的に生成され、
 キャラクター毎にアドオンで使用する情報をログアウト後も保持するために使用します。
 
 - [cid]
+
+### v1.1.0
+
+#### ヘアカラー、称号追加
+
+本バージョン以降に作成したデータは、ヘアカラーと称号を保存/復元できるようになります。
+
+#### フレーム表示方法修正
+
+インベントリを開くと追従して開かなくなりました。
+閉じる場合は依然としてインベントリに追従します。
+
+代わりに、インベントリアイコン右クリックメニューに[Open]が追加され、そこから開けます。
+アドオンフレームが表示されるとインベントリが追従して開きます。
 
 ### v1.0.0
 

@@ -2,13 +2,13 @@
 publishdate = "2017-05-03T13:12:00.000+09:00"
 title = "[tree of savior addon] エリア内ランダムワープアドオン"
 categories = [ "tos-addon-x" ]
-version = "1.0.3"
+version = "1.0.4"
 lastmod = "1900-01-01T00:00:00.000+09:00"
 +++
 
 ## download.
 
-[[v1.0.3] wingofbeelze.ipf](https://www.dropbox.com/s/bcuf2x3u2jmwjpo/wingofbeelze.ipf?dl=0)
+[[v1.0.4] wingofbeelze.ipf](https://www.dropbox.com/s/bcuf2x3u2jmwjpo/wingofbeelze.ipf?dl=0)
 
 ## install.
 
@@ -19,6 +19,10 @@ lastmod = "1900-01-01T00:00:00.000+09:00"
 ## settings.
 
 ## descriptions.
+
+### v1.0.4
+
+#### 6/27アップデート対応
 
 ### v1.0.3
 
