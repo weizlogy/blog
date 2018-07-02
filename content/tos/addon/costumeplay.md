@@ -2,12 +2,12 @@
 title = "[tree of savior addon] GUI操作で装備を保存/復元するアドオン"
 publishdate = 2018-04-11T23:48:28+09:00
 categories = [ "tos-addon" ]
-version = "1.1.0"
+version = "1.1.1"
 +++
 
 ## download.
 
-[[v1.1.0] costumeplay.ipf](https://github.com/weizlogy/tos/releases/download/costumeplay/costumeplay-v1.1.0.ipf)
+[[v1.1.1] costumeplay.ipf](https://github.com/weizlogy/tos/releases/download/costumeplay/costumeplay-v1.1.1.ipf)
 
 ## install.
 
@@ -27,6 +27,16 @@ costumeplayフォルダーには下記ファイルが自動的に生成され、
 キャラクター毎にアドオンで使用する情報をログアウト後も保持するために使用します。
 
 - [cid]
+
+### v1.1.1
+
+#### 同一名称ブレスレットが正常に装備できない問題の修正
+
+#### 装備名クリック時の動作修正
+
+旧：一時的に復元状態を変更
+
+新：永続的に復元状態を変更
 
 ### v1.1.0
 
@@ -63,4 +73,4 @@ GUI操作で装備を保存/復元します。
 ### その他
 
 - 見た目に影響しない防具やリングなどは初期状態で復元しない状態です。（装備名が灰色）
-- アドオンフレームの装備名をクリックすると、一時的に復元状態を変更します。
+- アドオンフレームの装備名をクリックすると、永続的に復元状態を変更します。
