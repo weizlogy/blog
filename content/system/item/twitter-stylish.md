@@ -1,5 +1,5 @@
 +++
-title = "[system] Windows10でTwitter公式webページをStylishでキレイに見せる"
+title = "Windows10でTwitter公式webページをStylishでキレイに見せる"
 publishdate = 2017-11-22T22:22:09+09:00
 categories = [ "system" ]
 version = "1.0.0"

@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-18T16:55:00.000+09:00"
-title = "[system] Tapete - Windows spotlight画像抽出"
+title = "Tapete - Windows spotlight画像抽出"
 categories = [ "system" ]
 +++
 

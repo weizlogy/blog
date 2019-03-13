@@ -1,6 +1,6 @@
 +++
 publishdate = "2014-03-19T12:39:00.002+09:00"
-title = "[system development] JQueryUIのAutoCompleteを特定操作で強制選択する"
+title = "JQueryUIのAutoCompleteを特定操作で強制選択する"
 categories = [ "system-dev" ]
 +++
 

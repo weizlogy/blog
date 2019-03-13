@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-04-16T11:11:02+09:00"
-title = "[tree of savior addon] 消費アイテムありスキルの使用回数表示アドオン"
+title = "消費アイテムありスキルの使用回数表示アドオン"
 categories = [ "tos-addon" ]
 version = "1.1.2"
 +++

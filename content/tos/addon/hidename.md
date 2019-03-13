@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-05T18:08:00.000+09:00"
-title = "[tree of savior addon] 画面にある自キャラ名を消すアドオン"
+title = "画面にある自キャラ名を消すアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.3"
 +++

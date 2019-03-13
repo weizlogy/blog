@@ -1,6 +1,6 @@
 +++
 publishdate = 2018-01-27T07:38:47+09:00
-title = "[tree of savior addon] パーティーメンバーの一覧に追加情報を表示するアドオン"
+title = "パーティーメンバーの一覧に追加情報を表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.1.0"
 +++

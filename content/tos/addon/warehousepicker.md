@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-19T17:42:00.000+09:00"
-title = "[tree of savior addon] 所持キャラ全員の個人倉庫を見るアドオン"
+title = "所持キャラ全員の個人倉庫を見るアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

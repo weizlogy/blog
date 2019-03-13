@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-03-09T05:55:00.000+09:00"
-title = "[tree of savior addon] 装備修理時、装備アイコンに耐久度（％）を色分け表示するアドオン"
+title = "装備修理時、装備アイコンに耐久度（％）を色分け表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.1.0"
 +++

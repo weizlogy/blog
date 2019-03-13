@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-05-03T13:12:00.000+09:00"
-title = "[tree of savior addon] エリア内ランダムワープアドオン"
+title = "エリア内ランダムワープアドオン"
 categories = [ "tos-addon-x" ]
 version = "1.0.4"
 lastmod = "1900-01-01T00:00:00.000+09:00"

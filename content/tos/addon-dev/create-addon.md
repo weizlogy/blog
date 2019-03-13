@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-09-25T07:41:00.000+09:00"
-title = "[tree of savior addon for developpers] アドオン作成～設置方法まとめ"
+title = "アドオン作成～設置方法まとめ"
 categories = [ "tos-addon-dev" ]
 +++
 

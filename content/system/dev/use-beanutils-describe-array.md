@@ -1,6 +1,6 @@
 +++
 publishdate = "2011-09-10T00:03:00.000+09:00"
-title = "[system development] BeanUtils.describe()で配列を扱いたい"
+title = "BeanUtils.describe()で配列を扱いたい"
 categories = [ "system-dev" ]
 +++
 

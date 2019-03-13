@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-07-31T16:11:00.000+09:00"
-title = "[system development] Monodevelopで埋め込みリソースを使う"
+title = "Monodevelopで埋め込みリソースを使う"
 categories = [ "system-dev" ]
 +++
 

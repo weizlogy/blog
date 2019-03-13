@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-25T00:33:00.002+09:00"
-title = "[tree of savior addon] キャラの足元にスタミナゲージを追加するアドオン"
+title = "キャラの足元にスタミナゲージを追加するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.3"
 +++

@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-07-16T23:14:23+09:00"
-title = "[tree of savior addon] 召喚物の個体数を表示するアドオン"
+title = "召喚物の個体数を表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.4"
 +++

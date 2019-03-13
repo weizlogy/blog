@@ -1,6 +1,6 @@
 +++
 publishdate = "2014-05-02T12:58:00.001+09:00"
-title = "[system development] Spring Framework で ProceedingJoinPoint を引数に持つ AOP Interceptor をテストで呼び出す"
+title = "Spring Framework で ProceedingJoinPoint を引数に持つ AOP Interceptor をテストで呼び出す"
 categories = [ "system-dev" ]
 +++
 

@@ -1,115 +1,59 @@
-<!DOCTYPE html>
-<html ⚡>
-<head>
-<meta charset="utf-8">
-<link rel="canonical" href="{{ .Permalink }}">
-<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-<title>
-{{ block "title" . }}
-  {{ .Site.Title }}
-{{ end }}
-</title>
-{{ partial "header.html" }}
-{{ partial "css.html" . }}
-{{ block "schema" . }}
-{{ end }}
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
-<noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-{{ block "amp-custom-elements" . }}
-<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-<script async='async' custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
-{{ end }}
-<script async src="https://cdn.ampproject.org/v0.js"></script>
-</head>
-
-<body>
-<div id="container">
-
-<header>
-{{ block "header" . }}
-  <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-  <h2>{{ .Site.Params.description }}</h2>
-{{ end }}
-</header>
-
-<aside>
-<div>
-  <strong>Category.</strong>
-  <div class="category">
+{{ define "side" }}
+<section>
+  <h2 class="section-title">Category.</h2>
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
   {{ range $key, $value := $taxonomy }}
-    <div class="{{ $key }}"><a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}">{{ $key }}</a>({{ $value.Count }})</div>
+    <article class="{{ $key }}" style="background-color: #CCC; padding: 5px; margin-right: 10px; border-radius: 8px; border: 2px solid #999">
+      <a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}" style="text-decoration: none; color: inherit;">
+        {{ $key }} ({{ $value.Count }})
+      </a>
+    </article>
   {{ end }}
   {{ end }}
   </div>
-</div>
-<div>
+</section>
+
+<section>
   {{ block "lastmodified" . }}
-  <strong>Last modified.</strong>
-  {{ range first 5 .Data.Pages.ByLastmod.Reverse }}
-  <div class="lastmod-title">
+  <h2 class="section-title">Last modified.</h2>
+  <div>
+    {{ range first 5 .Data.Pages.ByLastmod.Reverse }}
+    <article style="">
+      <div class="{{ .Params.categories }}">
+        <div class="index-datetime">{{ .Lastmod.Format "2006/01/02 15:04:05" }}</div>
+        <a style="text-decoration: none; color: inherit;" href="{{ .Permalink }}">
+          <h3>
+            {{ .Params.categories }} {{ .Title }}
+              {{ if isset .Params "version" }}&ndash;&nbsp;v{{ .Params.version }}{{ end }}
+          </h3>
+        </a>
+      </div>
+    </article>
+    <hr style="border: 0; height: 1px; background-image: linear-gradient(to left, white, black, white);">
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ define "main" }}
+<section style="padding-left: 10px;">
+  <h2 class="section-title">Contents index.</h2>
+  <div style="display: flex; flex-wrap: wrap;">
+    {{ $paginator := .Paginate .Data.Pages.ByPublishDate.Reverse }}
+    {{ range $paginator.Pages }}
     <div class="{{ .Params.categories }}">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>{{ block "version" . }}{{ end }}
-      <span class="blog-date">@{{ .Lastmod.Format "2006/01/02 15:04:05" }}</span>
+      <article style="margin: 0 0 10px 10px; padding: 5px; border: 2px solid #999; border-radius: 8px; width: 300px; height: 400px; overflow: hidden;">
+        <div class="index-datetime">{{ .Lastmod.Format "2006/01/02 15:04:05" }}</div>
+        <a style="text-decoration: none; color: inherit;" href="{{ .Permalink }}">
+          <h3>{{ .Params.categories }} {{ .Title }}{{ if isset .Params "version" }}&ndash;&nbsp;v{{ .Params.version }}{{ end }}</h3>
+        </a>
+        <pre style="overflow: hidden; border: 0; margin-left: 0px;">{{ .Summary }}</pre>
+      </article>
     </div>
-  </div>
-  {{ end }}
-  {{ end }}
-</div>
-</aside>
-
-<div class="main">
-  <strong>Contents index.</strong>
-  <section>
-  {{ $paginator := .Paginate .Data.Pages.ByPublishDate.Reverse }}
-  {{ range $paginator.Pages }}
-  <div class="{{ .Params.categories }}">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ block "version" . }}
-    {{ if isset .Params "version" }}
-    &ndash;&nbsp;v{{ .Params.version }}
-    {{ end }}
     {{ end }}
   </div>
-  <pre class="summary {{ .Params.categories }}">{{ .Summary }}</pre>
-  {{ end }}
   {{ template "_internal/pagination.html" . }}
-  </section>
-  <amp-ad type="adsense"
-    layout="responsive"
-    width=300
-    height=250
-    data-ad-client="ca-pub-3395565787038716"
-    data-ad-slot="6217845612">
-  </amp-ad>
-</div>
-
-<footer>
-{{ block "footer" . }}
-  <p>{{ .Site.Params.copyright }}<p>
-  <p>Powered by {{ .Site.Params.poweredby }}<p>
-  {{ partial "snsparts.html" }}
+</section>
 {{ end }}
-{{ block "analytics" . }}
-<amp-analytics type="googleanalytics" id="analytics1">
-<script type="application/json">
-{
-  "vars": {
-    "account": "{{ .Site.GoogleAnalytics }}"
-  },
-  "triggers": {
-    "trackPageview": {
-      "on": "visible",
-      "request": "pageview"
-    }
-  }
-}
-</script>
-</amp-analytics>
-{{ end }}
-</footer>
-
-</div>
-</body>
-</html>

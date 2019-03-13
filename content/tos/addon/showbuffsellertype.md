@@ -1,5 +1,5 @@
 +++
-title = "[tree of savior addon] 商店のフキダシに商店名を付けるアドオン"
+title = "商店のフキダシに商店名を付けるアドオン"
 publishdate = 2017-12-26T00:36:58+09:00
 categories = [ "tos-addon" ]
 version = "1.0.0"

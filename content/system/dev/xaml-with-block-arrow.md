@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-04T22:45:00.001+09:00"
-title = "[system development] XAMLでブロック矢印を描画する"
+title = "XAMLでブロック矢印を描画する"
 categories = [ "system-dev" ]
 +++
 

@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-08-21T11:20:00.000+09:00"
-title = "[system development] Codeaywhere+Java+bazelでOpenWeatherMapのAPIを使用し現在の気象情報を取得する"
+title = "Codeaywhere+Java+bazelでOpenWeatherMapのAPIを使用し現在の気象情報を取得する"
 categories = [ "system-dev" ]
 +++
 

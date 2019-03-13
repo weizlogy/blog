@@ -1,6 +1,6 @@
 +++
 publishdate = "2014-04-15T13:15:00.002+09:00"
-title = "[system development] Webアプリケーションでサーバー上の画像ファイルをIMGタグに動的出力する"
+title = "Webアプリケーションでサーバー上の画像ファイルをIMGタグに動的出力する"
 categories = [ "system-dev" ]
 +++
 

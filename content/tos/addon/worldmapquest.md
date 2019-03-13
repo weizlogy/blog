@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-04-06T04:28:09+09:00"
-title = "[tree of savior addon] ワールドマップ上に各エリアの受注可能なクエスト数を表示するアドオン"
+title = "ワールドマップ上に各エリアの受注可能なクエスト数を表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.2.0"
 +++

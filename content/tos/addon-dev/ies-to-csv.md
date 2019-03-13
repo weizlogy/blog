@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-31T15:42:00.002+09:00"
-title = "[tree of savior addon for developpers] iesファイルをcsv形式のファイルに変換するソフト"
+title = "iesファイルをcsv形式のファイルに変換するソフト"
 categories = [ "tos-addon-dev" ]
 +++
 

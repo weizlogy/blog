@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-03-20T08:41:36+09:00"
-title = "[tree of savior addon] DPS計測アドオン"
+title = "DPS計測アドオン"
 categories = [ "tos-addon" ]
 version = "1.3.1"
 +++

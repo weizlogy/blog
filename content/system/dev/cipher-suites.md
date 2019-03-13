@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-01-31T21:59:00.001+09:00"
-title = "[system development] TSLで定義される全CipherSuiteの一覧"
+title = "TSLで定義される全CipherSuiteの一覧"
 categories = [ "system-dev" ]
 +++
 

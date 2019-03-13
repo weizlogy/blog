@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-10T17:30:00.001+09:00"
-title = "[tree of savior addon] アドオンで定義される関数、プロパティを抽出するアドオン（開発者用）"
+title = "アドオンで定義される関数、プロパティを抽出するアドオン（開発者用）"
 categories = [ "tos-addon" ]
 version = "1.2.0"
 +++

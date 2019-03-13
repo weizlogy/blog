@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-31T17:29:00.001+09:00"
-title = "[tree of savior addon for developpers] iesファイルフォーマット解説"
+title = "iesファイルフォーマット解説"
 categories = [ "tos-addon-dev" ]
 +++
 

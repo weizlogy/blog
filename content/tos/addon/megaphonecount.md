@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-12T21:56:00.000+09:00"
-title = "[tree of savior addon] チャット入力欄表示中に所持中のメガホン数を表示するアドオン"
+title = "チャット入力欄表示中に所持中のメガホン数を表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

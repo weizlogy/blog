@@ -1,6 +1,6 @@
 +++
 publishdate = 2017-11-02T00:21:48+09:00
-title = "[tree of savior addon] 召喚獣にオベイで使えるスキルのツールチップを表示するアドオン"
+title = "召喚獣にオベイで使えるスキルのツールチップを表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

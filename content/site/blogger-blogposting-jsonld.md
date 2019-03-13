@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-26T12:54:00.000+09:00"
-title = "[site management] schema.org構造化データBlogPosting対応 with JSON+LD in blogger"
+title = "schema.org構造化データBlogPosting対応 with JSON+LD in blogger"
 categories = [ "site-management" ]
 +++
 

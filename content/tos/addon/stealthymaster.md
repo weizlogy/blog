@@ -1,6 +1,6 @@
 +++
 publishdate = 2018-02-10T08:58:15+09:00
-title = "[tree of savior addon] いいねせずキャラ情報を見るアドオン"
+title = "いいねせずキャラ情報を見るアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-06-12T10:56:00.000+09:00"
-title = "[system development] ubuntu16.04でMonoDevelopを使った開発環境"
+title = "ubuntu16.04でMonoDevelopを使った開発環境"
 categories = [ "system-dev" ]
 +++
 

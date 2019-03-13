@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-11-13T18:00:00.002+09:00"
-title = "[tree of savior addon] 自キャラから近隣モンスターまでの距離を表示するアドオン"
+title = "自キャラから近隣モンスターまでの距離を表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.1.1"
 +++

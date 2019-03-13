@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-03-05T07:56:00.000+09:00"
-title = "[tree of savior addon] コンパニオンのリングコマンドを拡張するアドオン"
+title = "コンパニオンのリングコマンドを拡張するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

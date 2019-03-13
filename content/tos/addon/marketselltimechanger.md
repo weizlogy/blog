@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-23T23:34:00.001+09:00"
-title = "[tree of savior addon] マーケットデフォルト出品日数変更アドオン"
+title = "マーケットデフォルト出品日数変更アドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

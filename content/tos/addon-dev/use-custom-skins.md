@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-03-05T14:19:00.000+09:00"
-title = "[tree of savior addon for developpers] アドオンで自作スキンを使用する方法"
+title = "アドオンで自作スキンを使用する方法"
 categories = [ "tos-addon-dev" ]
 +++
 

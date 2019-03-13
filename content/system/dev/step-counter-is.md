@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-07-29T00:14:00.003+09:00"
-title = "[system development] ステップカウンターのあるべき姿を考察する"
+title = "ステップカウンターのあるべき姿を考察する"
 categories = [ "system-dev" ]
 +++
 

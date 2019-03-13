@@ -1,6 +1,6 @@
 +++
 publishdate = "2011-05-15T01:21:00.001+09:00"
-title = "[system development] strutsでJSPで動的に一覧表示した複数のForm値をServletで簡単に渡す"
+title = "strutsでJSPで動的に一覧表示した複数のForm値をServletで簡単に渡す"
 categories = [ "system-dev" ]
 +++
 

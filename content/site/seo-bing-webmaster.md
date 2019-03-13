@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-06-13T22:31:00.000+09:00"
-title = "[site management] bing Web マスターのSEOレポート対策"
+title = "bing Web マスターのSEOレポート対策"
 categories = [ "site-management" ]
 +++
 

@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-08-13T17:06:00.000+09:00"
-title = "[system development] Codeanywhereでbazelを使う"
+title = "Codeanywhereでbazelを使う"
 categories = [ "system-dev" ]
 +++
 

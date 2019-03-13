@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-03-24T05:28:54+09:00"
-title = "[tree of savior addon] ワープ用クエスト誤完了防止アドオン"
+title = "ワープ用クエスト誤完了防止アドオン"
 categories = [ "tos-addon" ]
 version = "1.2.5"
 +++

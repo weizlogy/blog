@@ -1,7 +1,7 @@
 +++
 categories = ["site-management"]
 publishdate = "2017-05-06T17:31:42+09:00"
-title = "[site management] bloggerからhugo+github pagesに移行した理由"
+title = "bloggerからhugo+github pagesに移行した理由"
 +++
 
 ## bloggerでサイト運営して困ったこと

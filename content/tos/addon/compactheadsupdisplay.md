@@ -1,5 +1,5 @@
 +++
-title = "[tree of savior addon] Heads Up Displayをコンパクトにするアドオン"
+title = "Heads Up Displayをコンパクトにするアドオン"
 publishdate = 2017-12-12T22:05:16+09:00
 categories = [ "tos-addon" ]
 version = "1.0.0"

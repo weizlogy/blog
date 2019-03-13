@@ -1,6 +1,6 @@
 +++
 publishdate = 2018-01-17T22:13:20+09:00
-title = "[tree of savior addon] 表示されないマップを表示するアドオン"
+title = "表示されないマップを表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.1"
 +++

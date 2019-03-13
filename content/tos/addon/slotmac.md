@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-06-16T21:15:19+09:00"
-title = "[tree of savior addon] クイックスロットスキル/アイテム用マクロアドオン"
+title = "クイックスロットスキル/アイテム用マクロアドオン"
 categories = [ "tos-addon" ]
 version = "1.3.0"
 +++

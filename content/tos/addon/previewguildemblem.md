@@ -1,6 +1,6 @@
 +++
 publishdate = 2017-11-08T00:48:29+09:00
-title = "[tree of savior addon] ギルドマスター以外でもギルドエンブレムのプレビューができるアドオン"
+title = "ギルドマスター以外でもギルドエンブレムのプレビューができるアドオン"
 categories = [ "tos-addon" ]
 version = "1.1.0"
 +++

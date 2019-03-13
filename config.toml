@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Weizlogy"
 baseURL = "http://www.weizlogy.gq/"
 googleAnalytics = "UA-565719-7"
-enableGitInfo = true
+enableGitInfo = false
 enableRobotsTXT = true
 
 pygmentscodefences = "true"
@@ -16,3 +16,10 @@ theme = "hugo-theme-html5-amp-minimize"
   poweredby = "hugo + github pages."
   author = "weizlogy"
   publisher = "Weiβlogy"
+
+[frontmatter]
+lastmod = [":fileModTime"]
+
+[outputs]
+  home = ["HTML", "AMP"]
+  page  = ["HTML", "AMP"]

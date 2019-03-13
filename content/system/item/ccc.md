@@ -1,5 +1,5 @@
 +++
-title = "[system] CCC - 色当てゲーム解析ツール"
+title = "CCC - 色当てゲーム解析ツール"
 publishdate = 2017-08-11T23:51:21+09:00
 categories = ["system"]
 version = "1.0.0"

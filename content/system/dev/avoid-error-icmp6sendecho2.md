@@ -1,6 +1,6 @@
 +++
 publishdate = "2012-03-10T14:48:00.001+09:00"
-title = "[system development] Windows XP上でIcmp6SendEcho2()呼び出し時、異常終了しないために"
+title = "Windows XP上でIcmp6SendEcho2()呼び出し時、異常終了しないために"
 categories = [ "system-dev" ]
 +++
 

@@ -1,6 +1,6 @@
 +++
 publishdate = 2018-01-16T01:34:09+09:00
-title = "[tree of savior addon] キャラクター下HP/SPバーテキスト表示アドオン"
+title = "キャラクター下HP/SPバーテキスト表示アドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

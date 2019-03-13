@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-06-15T23:16:00.000+09:00"
-title = "[site management] code-prettifyがgithubに移行し進化していたので対応した"
+title = "code-prettifyがgithubに移行し進化していたので対応した"
 categories = [ "site-management" ]
 +++
 

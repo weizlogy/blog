@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-10-09T19:39:00.000+09:00"
-title = "[tree of savior addon] 飛行アドオン"
+title = "飛行アドオン"
 categories = [ "tos-addon-x" ]
 version = "1.2.0"
 lastmod = "1900-01-01T00:00:00.000+09:00"

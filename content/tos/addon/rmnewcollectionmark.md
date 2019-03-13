@@ -1,6 +1,6 @@
 +++
 publishdate = 2017-08-31T21:25:07+09:00
-title = "[tree of savior addon] コレクション画面の[N]マークを非表示にするアドオン"
+title = "コレクション画面の[N]マークを非表示にするアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++

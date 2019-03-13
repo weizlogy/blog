@@ -1,6 +1,6 @@
 +++
 publishdate = "2010-09-11T18:35:00.000+09:00"
-title = "[system development] cannot find source for binding with reference について"
+title = "cannot find source for binding with reference について"
 categories = [ "system-dev" ]
 +++
 

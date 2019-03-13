@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-13T17:32:00.000+09:00"
-title = "[system] Schritt - 論理ステップカウンター"
+title = "Schritt - 論理ステップカウンター"
 categories = [ "system" ]
 +++
 

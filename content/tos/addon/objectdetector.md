@@ -1,13 +1,13 @@
 +++
 publishdate = "2017-03-27T19:39:27+09:00"
-title = "[tree of savior addon] オブジェクト探索アドオン"
+title = "オブジェクト探索アドオン"
 categories = [ "tos-addon" ]
-version = "1.3.0"
+version = "1.3.1"
 +++
 
 ## download.
 
-[[v1.3.0] objectdetector.ipf](https://github.com/weizlogy/tos/releases/download/objectdetector-v1.3.0/objectdetector.ipf)
+[[v1.3.1] objectdetector.ipf](https://github.com/weizlogy/tos/releases/download/objectdetector/objectdetector-v1.3.1.ipf)
 
 ## install.
 
@@ -158,6 +158,12 @@ classnameはアイコンのツールチップ[b=]で確認できます。
 |非表示|ペット|
 
 ## descriptions.
+
+### v1.3.1
+
+#### PVPマップ動作停止対応
+
+PVPマップでは動きません。
 
 ### v1.3.0
 

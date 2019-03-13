@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-09T05:57:00.002+09:00"
-title = "[tree of savior addon] ターゲット中のモンスターのステータスを表示するアドオン"
+title = "ターゲット中のモンスターのステータスを表示するアドオン"
 categories = [ "tos-addon" ]
 version = "3.0.3"
 +++

@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-06-16T22:00:00.000+09:00"
-title = "[site management] bloggerで最終更新日時を表示する"
+title = "bloggerで最終更新日時を表示する"
 categories = [ "site-management" ]
 +++
 

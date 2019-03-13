@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-05-05T23:14:15+09:00"
-title = "[tree of savior addon] ドロップアイテムの名称を常時表示するアドオン"
+title = "ドロップアイテムの名称を常時表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.4"
 +++

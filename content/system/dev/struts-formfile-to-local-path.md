@@ -1,6 +1,6 @@
 +++
 publishdate = "2011-04-24T01:02:00.001+09:00"
-title = "[system development] strutsのFormFileからローカルファイルの絶対パスを取得"
+title = "strutsのFormFileからローカルファイルの絶対パスを取得"
 categories = [ "system-dev" ]
 +++
 

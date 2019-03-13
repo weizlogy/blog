@@ -1,6 +1,6 @@
 +++
 publishdate = "2016-12-18T16:55:00.000+09:00"
-title = "[system] RealtimeWhoisView - グローバルIP＋国名表示ツール"
+title = "RealtimeWhoisView - グローバルIP＋国名表示ツール"
 categories = [ "system" ]
 version = "1.0.0"
 +++

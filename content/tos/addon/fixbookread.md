@@ -1,5 +1,5 @@
 +++
-title = "[tree of savior addon] 本アイテムの改行を正常化するアドオン"
+title = "本アイテムの改行を正常化するアドオン"
 publishdate = 2017-08-06T00:53:42+09:00
 categories = [ "tos-addon" ]
 version = "1.0.0"

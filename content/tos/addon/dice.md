@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-07-25T05:47:00.001+09:00"
-title = "[tree of savior addon] ダイスロールアドオン"
+title = "ダイスロールアドオン"
 categories = [ "tos-addon" ]
 version = "1.1.0"
 +++

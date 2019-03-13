@@ -1,6 +1,6 @@
 +++
 publishdate = "2017-02-12T02:29:00.000+09:00"
-title = "[tree of savior addon] 特性習得ウィンドウに各特性の最大レベルを表示するアドオン"
+title = "特性習得ウィンドウに各特性の最大レベルを表示するアドオン"
 categories = [ "tos-addon" ]
 version = "1.0.0"
 +++
