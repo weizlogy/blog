@@ -5,13 +5,25 @@
 layout: default
 ---
 
-# About
+# Index
+
+## About
 
 - [ME](/about/)
 
-# Latest Posts
+## Updated Posts
+{% assign updated_posts = site.posts | where_exp: 'post', 'post.last_modified_at != nil' %}
+{% for post in updated_posts limit: 5 offset: 0 %}
 
-{% for post in site.posts | sort: 'date' | reverse | limit:5 %}
+- [{{ post.title }}]({{ post.url }})
+> {{ post.date | date: "%Y/%m/%d" }} {% if post.last_modified_at %} ~ {{ post.last_modified_at | date: "%Y/%m/%d" }}{% endif %}
+
+{% endfor %}
+
+## Latest Posts
+
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+{% for post in sorted_posts limit: 5 offset: 0 %}
 
 - [{{ post.title }}]({{ post.url }})
 > {{ post.date | date: "%Y/%m/%d" }}
