@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'Noto Sans Japanese', 'monospace';
+}
+
+blockquote {
+  font-style: normal;
+}
+
+section {
+  overflow: hidden;
+}
+
+section > h1 {
+  padding: 10px 0px 5px 5px;
+  border-left: 15px solid #999;
+  border-bottom: 2px solid #999;
+}
+
+section > h2 {
+  border-bottom: 1px solid #999;
+}
