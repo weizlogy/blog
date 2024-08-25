@@ -1,10 +1,9 @@
-+++
-publishdate = 2017-11-02T00:21:48+09:00
-title = "召喚獣にオベイで使えるスキルのツールチップを表示するアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.0"
-+++
-
+---
+layout: post
+title:  "召喚獣にオベイで使えるスキルのツールチップを表示するアドオン"
+date:   2017-11-02 00:21:48 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -16,7 +15,7 @@ version = "1.0.0"
 
 ## introduction.
 
-[{{% amp-img src="https://www.dropbox.com/s/0t2kxfjuviyucj8/summonskilltooltip.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/0t2kxfjuviyucj8/summonskilltooltip.png?dl=1)
+[![](https://www.dropbox.com/s/0t2kxfjuviyucj8/summonskilltooltip.png?dl=1)](https://www.dropbox.com/s/0t2kxfjuviyucj8/summonskilltooltip.png?dl=0)
 
 ### v1.0.0
 

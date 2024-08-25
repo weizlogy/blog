@@ -20,8 +20,8 @@
 
 title: Weiβlogy
 email: dreamfragment623+github@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  黄昏時のようによく分からないものをよく分からないように書き留めるものである
+description: ""
+logo: /assets/img/logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.weizlogy.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twilightalpaca

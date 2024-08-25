@@ -1,8 +1,9 @@
-+++
-publishdate = "2017-03-05T14:19:00.000+09:00"
-title = "アドオンで自作スキンを使用する方法"
-categories = [ "tos-addon-dev" ]
-+++
+---
+layout: post
+title:  "アドオンで自作スキンを使用する方法"
+date:   2017-03-05 14:19:00.000 09:00
+categories: tos-addon-dev
+---
 
 ## ifpファイル内部構成
 
@@ -21,7 +22,7 @@ xxx.ipf
 
 ## addon_d.ipf
 
-[Tree Of Savior アドオン作成～設置方法まとめ](http://www.weizlogy.gq/2016/09/tree-of-savior_25.html)
+[Tree Of Savior アドオン作成～設置方法まとめ]({% post_url 2016-09-25-create-addon %})
 参照。
 
 ## ui.ipf

@@ -1,9 +1,9 @@
-+++
-publishdate = 2018-01-17T22:13:20+09:00
-title = "表示されないマップを表示するアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.1"
-+++
+---
+layout: post
+title:  "表示されないマップを表示するアドオン"
+date:   2018-01-17 22:13:20 09:00
+categories: tos-addon
+---
 
 ## download.
 

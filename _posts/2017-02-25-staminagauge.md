@@ -1,9 +1,9 @@
-+++
-publishdate = "2017-02-25T00:33:00.002+09:00"
-title = "キャラの足元にスタミナゲージを追加するアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.3"
-+++
+---
+layout: post
+title:  "キャラの足元にスタミナゲージを追加するアドオン"
+date:   2017-02-25 00:33:00.002 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -15,7 +15,7 @@ version = "1.0.3"
 
 ## introduction.
 
-[{{% amp-img src="https://www.dropbox.com/s/rbcn9uizoiwpw2h/staminagauge.png?dl=1" width="320" height="185" %}}](https://www.dropbox.com/s/rbcn9uizoiwpw2h/staminagauge.png?dl=1)
+[![](https://www.dropbox.com/s/rbcn9uizoiwpw2h/staminagauge.png?dl=1)](https://www.dropbox.com/s/rbcn9uizoiwpw2h/staminagauge.png?dl=0)
 
 ## settings.
 

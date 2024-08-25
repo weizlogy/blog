@@ -1,9 +1,9 @@
-+++
-publishdate = "2017-07-16T23:14:23+09:00"
-title = "召喚物の個体数を表示するアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.4"
-+++
+---
+layout: post
+title:  "召喚物の個体数を表示するアドオン"
+date:   2017-07-16 23:14:23 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -15,13 +15,13 @@ version = "1.0.4"
 
 ## introduction.
 
-[{{% amp-img src="https://www.dropbox.com/s/zidbpv5mqap3em7/summoncounter.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/zidbpv5mqap3em7/summoncounter.png?dl=1)
+[![](https://www.dropbox.com/s/zidbpv5mqap3em7/summoncounter.png?dl=1)](https://www.dropbox.com/s/zidbpv5mqap3em7/summoncounter.png?dl=0)
 
-[{{% amp-img src="https://www.dropbox.com/s/zf5v5c419yqsim0/summon_counter_hpbar.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/zf5v5c419yqsim0/summon_counter_hpbar.png?dl=1)
+[![](https://www.dropbox.com/s/zf5v5c419yqsim0/summon_counter_hpbar.png?dl=1)](https://www.dropbox.com/s/zf5v5c419yqsim0/summon_counter_hpbar.png?dl=0)
 
-[{{% amp-img src="https://www.dropbox.com/s/dvtaqb7vx0sj8hs/summon_counter_icon1.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/dvtaqb7vx0sj8hs/summon_counter_icon1.png?dl=1)
+[![](https://www.dropbox.com/s/dvtaqb7vx0sj8hs/summon_counter_icon1.png?dl=1)](https://www.dropbox.com/s/dvtaqb7vx0sj8hs/summon_counter_icon1.png?dl=0)
 
-[{{% amp-img src="https://www.dropbox.com/s/7zzv7i1md1r1g8q/summon_counter_icon2.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/7zzv7i1md1r1g8q/summon_counter_icon2.png?dl=1)
+[![](https://www.dropbox.com/s/7zzv7i1md1r1g8q/summon_counter_icon2.png?dl=1)](https://www.dropbox.com/s/7zzv7i1md1r1g8q/summon_counter_icon2.png?dl=0)
 
 ## settings.
 

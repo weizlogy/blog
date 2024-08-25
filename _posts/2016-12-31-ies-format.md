@@ -1,8 +1,9 @@
-+++
-publishdate = "2016-12-31T17:29:00.001+09:00"
-title = "iesファイルフォーマット解説"
-categories = [ "tos-addon-dev" ]
-+++
+---
+layout: post
+title:  "iesファイルフォーマット解説"
+date:   2016-12-31 17:29:00.001 09:00
+categories: tos-addon-dev
+---
 
 ???は可変長です。
 

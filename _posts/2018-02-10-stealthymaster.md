@@ -1,9 +1,9 @@
-+++
-publishdate = 2018-02-10T08:58:15+09:00
-title = "いいねせずキャラ情報を見るアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.0"
-+++
+---
+layout: post
+title:  "いいねせずキャラ情報を見るアドオン"
+date:   2018-02-10 08:58:15 09:00
+categories: tos-addon
+---
 
 ## download.
 

@@ -1,9 +1,9 @@
-+++
-publishdate = "2017-04-16T11:11:02+09:00"
-title = "消費アイテムありスキルの使用回数表示アドオン"
-categories = [ "tos-addon" ]
-version = "1.1.2"
-+++
+---
+layout: post
+title:  "消費アイテムありスキルの使用回数表示アドオン"
+date:   2017-04-16 11:11:02 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -15,7 +15,7 @@ version = "1.1.2"
 
 ## introduction.
 
-[{{% amp-img src="https://www.dropbox.com/s/7nkaxby6mf76qwr/skillitemcounter.png?dl=1" width="320" height="184" %}}](https://www.dropbox.com/s/7nkaxby6mf76qwr/skillitemcounter.png?dl=1)
+[![](https://www.dropbox.com/s/7nkaxby6mf76qwr/skillitemcounter.png?dl=1)](https://www.dropbox.com/s/7nkaxby6mf76qwr/skillitemcounter.png?dl=0)
 
 ## settings.
 

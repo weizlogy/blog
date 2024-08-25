@@ -1,9 +1,9 @@
-+++
-publishdate = "2017-04-06T04:28:09+09:00"
-title = "ワールドマップ上に各エリアの受注可能なクエスト数を表示するアドオン"
-categories = [ "tos-addon" ]
-version = "1.2.0"
-+++
+---
+layout: post
+title:  "ワールドマップ上に各エリアの受注可能なクエスト数を表示するアドオン"
+date:   2017-04-06 04:28:09 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -15,9 +15,9 @@ version = "1.2.0"
 
 ## introduction.
 
-[{{% amp-img src="https://www.dropbox.com/s/lunp83pa1v4zybh/worldmapquest.png?dl=1" width="320" height="185" %}}](https://www.dropbox.com/s/lunp83pa1v4zybh/worldmapquest.png?dl=1)
+[![](https://www.dropbox.com/s/lunp83pa1v4zybh/worldmapquest.png?dl=1)](https://www.dropbox.com/s/lunp83pa1v4zybh/worldmapquest.png?dl=0)
 
-[{{% amp-img src="https://www.dropbox.com/s/n17yhkt44we35ec/worldmapquest-warp.png?dl=1" width="320" height="185" %}}](https://www.dropbox.com/s/n17yhkt44we35ec/worldmapquest-warp.png?dl=1)
+[![](https://www.dropbox.com/s/n17yhkt44we35ec/worldmapquest-warp.png?dl=1)](https://www.dropbox.com/s/n17yhkt44we35ec/worldmapquest-warp.png?dl=0)
 
 ## settings.
 

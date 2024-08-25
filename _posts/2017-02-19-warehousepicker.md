@@ -1,9 +1,9 @@
-+++
-publishdate = "2017-02-19T17:42:00.000+09:00"
-title = "所持キャラ全員の個人倉庫を見るアドオン"
-categories = [ "tos-addon" ]
-version = "1.0.0"
-+++
+---
+layout: post
+title:  "所持キャラ全員の個人倉庫を見るアドオン"
+date:   2017-02-19 17:42:00.000 09:00
+categories: tos-addon
+---
 
 ## download.
 
@@ -15,7 +15,9 @@ version = "1.0.0"
 
 ## introduction.
 
-{{< amp-youtube width="480" height="270" videoid="K0V5lyVg_WY" >}}
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/K0V5lyVg_WY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## settings.
 

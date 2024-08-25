@@ -1,8 +1,9 @@
-+++
-publishdate = "2016-09-25T07:41:00.000+09:00"
-title = "アドオン作成～設置方法まとめ"
-categories = [ "tos-addon-dev" ]
-+++
+---
+layout: post
+title:  "アドオン作成～設置方法まとめ"
+date:   2016-09-25 07:41:00.000 09:00
+categories: tos-addon-dev
+---
 
 ## 必要なもの
 
