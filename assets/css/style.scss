@@ -1,0 +1,59 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+@import "{{ site.theme }}";
+
+header > h1 {
+  font-family: 'Play', 'Noto Sans Mono';
+  letter-spacing: 0.1em;
+}
+
+body {
+  font-family: 'Noto Sans Mono', 'Noto Sans JP', 'monospace';
+}
+
+blockquote {
+  font-style: normal;
+}
+
+section {
+  overflow: hidden;
+}
+
+section > h1 {
+  padding: 5px 0px 5px 15px;
+  border-left: 15px solid #999;
+  border-bottom: 2px solid #999;
+}
+
+section > h2 {
+  border-bottom: 1px solid #999;
+  padding-bottom: 5px;
+}
+
+code, pre {
+  font-family: 'Source Code Pro', 'monospace';
+}
+
+img {
+  border: 3px solid black;
+  max-width: 95%;
+}
+
+.video-container {
+  position: relative;
+  width: 80%;
+  padding-top: 50%;
+  iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
