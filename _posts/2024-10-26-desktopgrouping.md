@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desktop Grouping - デスクトップ整理ソフト"
-date:   2024-10-26 15:30:00 09:00
+date:   2024-10-25 15:30:00 09:00
 categories: software
 ---
 
