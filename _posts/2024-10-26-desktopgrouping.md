@@ -13,7 +13,7 @@ categories: software
 
 ## download.
 
-[[v1.0.0] Desktop Grouping](https://github.com/weizlogy/DesktopGrouping/releases)
+[Desktop Grouping](https://github.com/weizlogy/DesktopGrouping/releases)
 
 - installer.7z
 - portable.7z
