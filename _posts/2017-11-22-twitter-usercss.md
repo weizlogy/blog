@@ -2,7 +2,7 @@
 layout: post
 title:  "WindowsでTwitter公式webページをUserCSSでキレイに見せる"
 date:   2017-11-22 22:22:09 09:00
-last_modified_at: 2025-01-19 14:13:00 09:00
+last_modified_at: 2025-01-19 21:57:00 09:00
 categories: software
 ---
 
@@ -62,6 +62,11 @@ div[data-testid="tweetTextarea_0"] > div > div > div > span > span
   font-family: "Noto Sans Mono", "Noto Sans JP" !important;
   font-weight: normal !important;
   font-size: 12px !important;
+}
+
+// 広告除去
+div[data-testid="placementTracking"] {
+	display: none !important;
 }
 ```
 
