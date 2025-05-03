@@ -26,6 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.weizlogy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twilightalpaca
 github_username: weizlogy
+locale: ja_JP # OGP用のロケール設定だよ！( *´꒳`*)੭⁾⁾
+lang: ja-JP   # HTMLのlang属性用の設定だよ！こっちはハイフン使うのが普通なんだ！(๑•̀ㅁ•́ฅ✧
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
