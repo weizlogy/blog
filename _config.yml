@@ -38,6 +38,12 @@ plugins:
 # test
 ## bundle exec jekyll serve
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -46,12 +52,13 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - google179db5509b498a97.html
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
