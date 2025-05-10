@@ -1,0 +1,15 @@
+---
+permalink: /robots.txt
+---
+
+# 全クローラーに対し全ページを許可
+User-agent: *
+Disallow:
+
+# 特定の不要ファイル／パスをブロック（例：開発用 404 ページなど）
+Disallow: /404.html
+Disallow: /feed.xml          # フィードをインデックスさせたくない場合
+Disallow: /assets/private/   # 非公開ディレクトリがあれば
+
+# Sitemap の場所を明示
+Sitemap: https://blog.weizlogy.com/sitemap.xml
