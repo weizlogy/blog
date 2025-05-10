@@ -29,6 +29,11 @@ github_username: weizlogy
 locale: ja_JP # OGP用のロケール設定だよ！( *´꒳`*)੭⁾⁾
 lang: ja-JP   # HTMLのlang属性用の設定だよ！こっちはハイフン使うのが普通なんだ！(๑•̀ㅁ•́ฅ✧
 
+# GitHub Pages の自動ビルドではデフォルトで safe モード（safe: true）です。
+# safe モードではサードパーティプラグインを無効化するため、
+# サイトマップが生成されないことがあります。
+safe: false
+
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
