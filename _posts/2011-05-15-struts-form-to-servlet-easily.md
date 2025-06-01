@@ -5,6 +5,8 @@ date:   2011-05-15 01:21:00.001 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 strutsのActionFormには、「map-backed properties」「list-backed properties」という機能があります。
 
 ActionFormにMapやListのフィールドと適切なアクセサーメソッドを用意することで、JSP-Servlet間のデータ送受信が動的に行われる仕組みです。

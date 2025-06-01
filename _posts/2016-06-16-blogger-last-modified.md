@@ -3,15 +3,14 @@ layout: post
 title:  "bloggerで最終更新日時を表示する"
 date:   2016-06-16 22:00:00.000 09:00
 categories: site-management
-categories: site-management
 description: "Bloggerで記事の最終更新日時を表示する方法を紹介します。標準機能では取得できない最終更新日時を、JavaScriptとRSSフィードを利用して、個別記事ページと一覧ページの両方に対応させるカスタマイズ手順を解説。"
 ---
-
-bloggerのテンプレートタグでは更新日時を取得できないので、[別の方法](http://blog2.k05.biz/2013/05/blogger-last-modified.html)を参考に、時刻追加、個別記事表示、一覧記事表示どちらも対応するようにしました。
 
 Bloggerで記事の最終更新日時を表示する方法を紹介します。標準機能では取得できない最終更新日時を、JavaScriptとRSSフィードを利用して、個別記事ページと一覧ページの両方に対応させるカスタマイズ手順を解説。
 
 <!--more-->
+
+bloggerのテンプレートタグでは更新日時を取得できないので、[別の方法](http://blog2.k05.biz/2013/05/blogger-last-modified.html)を参考に、時刻追加、個別記事表示、一覧記事表示どちらも対応するようにしました。
 
 ポイントは最終更新日時を挿入する要素のID属性を各投稿記事固有のIDにすることです。
 

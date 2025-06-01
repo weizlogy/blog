@@ -6,13 +6,14 @@ layout: default # ページのレイアウトを指定
 description: "Weiβlogyのトップページへようこそ！最新の技術情報、役立つTips、そして管理人の日々のつぶやきなど、盛りだくさんでお届けします。気になる記事を見つけて、ゆっくり楽しんでいってくださいね！" # トップページ専用のmeta description
 ---
 
+## About
+
 {{ site.description }} <!-- サイト全体の概要 -->
+
 ここでは、管理人が開発しているWindows向けのオリジナルソフトや、
 その開発過程で遭遇した「うわっ、ハマった！」っていう技術的な躓きポイント、
 そして「こうやって解決したよ！」っていう実践的な情報を中心に、
 同じようなことで困ってる誰かのヒントになれば。
-
-## About
 
 自己紹介的なページは特に用意してないんだけど、こんな感じで活動しています！
 
@@ -54,7 +55,7 @@ description: "Weiβlogyのトップページへようこそ！最新の技術情
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% if sorted_posts.size > 0 %}
-  {% for post in sorted_posts limit: 5 offset: 0 %}
+  {% for post in sorted_posts offset: 0 %}
   - [{{ post.title }}]({{ post.url }})
     > {{ post.date | date: "%Y/%m/%d" }}
     {% if post.excerpt %}

@@ -5,6 +5,8 @@ date:   2016-06-12 10:56:00.000 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 LinuxでC#を使うための環境(mono)とIDE(MonoDevelop)をインストールします。 
 
 まずはmonoをインストールします。 

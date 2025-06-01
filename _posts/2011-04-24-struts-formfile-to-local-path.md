@@ -5,6 +5,8 @@ date:   2011-04-24 01:02:00.001 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 strutsのFormFileからローカルファイルの絶対パスを取得したいのです。
 （取得しても無意味ですが）
 

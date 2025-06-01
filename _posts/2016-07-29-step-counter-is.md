@@ -5,6 +5,8 @@ date:   2016-07-29 00:14:00.003 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 ## ステップカウンターとは？
 
 LOCを計測するツールです。LOCはLines Of Codeの略で、プログラムの規模として扱います。 

@@ -5,6 +5,8 @@ date:   2016-06-15 23:16:00.000 09:00
 categories: site-management
 ---
 
+<!--more-->
+
 code-prettifyはGoogle謹製シンタックスハイライターです。 
 
 以前は以下の構成が必要でした。 

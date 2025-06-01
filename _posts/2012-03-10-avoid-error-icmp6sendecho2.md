@@ -5,6 +5,8 @@ date:   2012-03-10 14:48:00.001 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 Windows APIのIcmp6SendEcho2()をWindows XPで呼び出すときは以下の点に注意が必要です。
 
 [Syntax from msdn.](http://msdn.microsoft.com/en-us/library/windows/desktop/aa366041(v=vs.85).aspx)

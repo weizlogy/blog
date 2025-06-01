@@ -10,6 +10,7 @@ categories: system-dev
 この記事は、私が実際にAndroid端末からメインPC（Windowsだよ！）をリモート操作できるようにした時のアレコレをまとめた備忘録なんだ。
 
 <!--more-->
+
 ![eyecatch](/assets/img/20250120eyecatch.webp)
 
 ## 概要

@@ -5,6 +5,8 @@ date:   2011-09-10 00:03:00.000 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 題名の通り、BeanUtils.describe()で配列を扱いたいのです。主にStringの配列。
 
 BeanUtils.describe()を使うと、クラスのフィールドをMapに変換してくれますが「文字列として表現可能な形式のもの」に限ります。

@@ -5,6 +5,8 @@ date:   2025-01-18 23:10:00 09:00
 categories: software
 ---
 
+<!--more-->
+
 ## 概要
 
 WindowsでBluesky公式webページを対象に、Google ChromeのUser JavaScript and CSSアドオンでフォント調整を行い、キレイに見せます。

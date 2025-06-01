@@ -5,6 +5,8 @@ date:   2016-08-13 17:06:00.000 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 [Codeanywhere](https://codeanywhere.com/)はクラウドIDEで、sudoが許可されたターミナルを使うことができます。
 Google+アカウント連携ですぐに使えます。
 

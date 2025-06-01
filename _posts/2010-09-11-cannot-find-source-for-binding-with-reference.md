@@ -8,7 +8,6 @@ categories: system-dev
 ---
 
 掲題の件について、検索キーワードにあがりましたので、簡単にまとめました。
-
 WPFアプリケーション開発中に、ListBoxItemなどのStyle定義で `RelativeSource FindAncestor` を使用したBindingを設定すると、特定の条件下で「Cannot find source for binding with reference」というエラーに遭遇することがあります。この記事では、そのエラーメッセージと、考えられる原因について、具体的なXAMLコードを交えながら解説します。
 
 <!--more-->

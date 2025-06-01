@@ -5,6 +5,8 @@ date:   2014-03-19 12:39:00.002 09:00
 categories: system-dev
 ---
 
+<!--more-->
+
 本来は blur 時に強制選択したかったのですが、候補確定時に AutoComplete の対象にフォーカスが当たる挙動を回避できなかったため、エンターキーで代用です。
 
 ```javascript
