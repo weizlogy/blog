@@ -2,8 +2,14 @@
 layout: post
 title:  "hugo+github pagesからjekyll+github pagesに移行した"
 date:   2024-08-25 14:00:00 09:00
+description: "HugoからJekyllとGitHub Pagesを利用したサイト構成に移行した際の技術的な記録です。移行の動機、テーマ選定、環境構築時のトラブルシューティング、Jekyllの基本的な使い方について解説します。"
 categories: site-management
 ---
+
+Hugo + GitHub Pagesの構成から、Jekyll + GitHub Pagesの構成にサイトを移行しました。
+本記事では、その移行の背景と具体的な手順、遭遇した問題とその解決策についてまとめています。
+
+<!--more-->
 
 ![eyecatch](/assets/img/20240825eyecatch.webp)
 
@@ -11,7 +17,7 @@ categories: site-management
 
 ### 毎回ビルドして成果物をPushしないといけない
 
-めんどい。
+ビルドプロセスを手動で行い、生成された静的ファイルをリポジトリにプッシュする必要がありました。この手間が運用上の負担となっていました。
 
 ## hugoで困ったことをjekyllで解決する
 

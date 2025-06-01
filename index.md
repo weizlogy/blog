@@ -14,7 +14,12 @@ description: "Weiβlogyのトップページへようこそ！最新の技術情
 
 ## About
 
-- [ME](/about/)
+自己紹介的なページは特に用意してないんだけど、こんな感じで活動してるよ！
+
+- [Bluesky](https://bsky.app/profile/weizlogy.com){:target="_blank"}
+- [CodePen](https://codepen.io/weizlogy/full/LgjJYb){:target="_blank"}
+- [Misskey](https://misskey.io/@twilightalpaca){:target="_blank"}
+- [X(Twitter)](https://x.com/twilightalpaca){:target="_blank"}
 
 ## Updated Posts
 {% assign updated_posts = site.posts | where_exp: 'post', 'post.last_modified_at != nil' | sort: 'last_modified_at' | reverse %} <!-- 更新日時でソート -->

@@ -42,6 +42,11 @@ plugins:
 
 excerpt_separator: "<!--more-->"
 
+# kramdownの設定 (Markdownのパーサーだよ！)
+kramdown:
+  input: GFM # GitHub Flavored Markdownを有効にするよ！
+  toc_levels: [2] # 目次にはH2見出しだけを使うようにするよ！( *´艸｀)
+
 # test
 ## bundle exec jekyll serve
 
@@ -71,3 +76,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
