@@ -9,17 +9,31 @@ description: "Weiβlogyのトップページへようこそ！最新の技術情
 {{ site.description }} <!-- サイト全体の概要 -->
 ここでは、管理人が開発しているWindows向けのオリジナルソフトや、
 その開発過程で遭遇した「うわっ、ハマった！」っていう技術的な躓きポイント、
-そして「こうやって解決したよ！」っていう実践的な情報を中心に発信してる（予定）よ。
-同じようなことで困ってる誰かのヒントになったら嬉しいな。ゆっくりしていってね！
+そして「こうやって解決したよ！」っていう実践的な情報を中心に、
+同じようなことで困ってる誰かのヒントになれば。
 
 ## About
 
-自己紹介的なページは特に用意してないんだけど、こんな感じで活動してるよ！
+自己紹介的なページは特に用意してないんだけど、こんな感じで活動しています！
 
 - [Bluesky](https://bsky.app/profile/weizlogy.com){:target="_blank"}
 - [CodePen](https://codepen.io/weizlogy/full/LgjJYb){:target="_blank"}
 - [Misskey](https://misskey.io/@twilightalpaca){:target="_blank"}
 - [X(Twitter)](https://x.com/twilightalpaca){:target="_blank"}
+
+## Tree of Savior Addons
+
+- [自作したTree of Savior用のアドオン]({% link _pages/tos-addons.md %})
+  > 自作したTree of Savior用アドオンの一覧です。各アドオンの機能説明、ダウンロードリンク、およびREADMEへのリンクを掲載しています。
+- [自作中に必要になったTree of Savior用のアドオンの知識など]({% link _pages/tos-addon-develop.md %})
+  > Tree of Saviorのアドオン開発者向けガイドです。
+
+## 自作ソフトウェア
+
+- [開発中の自作ソフトウェア]({% link _pages/softwares.md %})
+  > 現在開発中のWindows向けオリジナルソフトウェアの情報を掲載しています。
+- [開発が終了した自作ソフトウェア]({% link _pages/softwares-eol.md %})
+  > 過去に開発し、現在は開発を終了したWindows向けオリジナルソフトウェアのアーカイブです。
 
 ## Updated Posts
 {% assign updated_posts = site.posts | where_exp: 'post', 'post.last_modified_at != nil' | sort: 'last_modified_at' | reverse %} <!-- 更新日時でソート -->
